@@ -1,0 +1,14 @@
+C:\bunker\Fishing Store\FishingStore\obj\Debug\net10.0\FishingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\bunker\Fishing Store\FishingStore\obj\Debug\net10.0\FishingStore.AssemblyInfoInputs.cache
+C:\bunker\Fishing Store\FishingStore\obj\Debug\net10.0\FishingStore.AssemblyInfo.cs
+C:\bunker\Fishing Store\FishingStore\obj\Debug\net10.0\FishingStore.csproj.CoreCompileInputs.cache
+C:\bunker\Fishing Store\FishingStore\bin\Debug\net10.0\FishingStore.exe
+C:\bunker\Fishing Store\FishingStore\bin\Debug\net10.0\FishingStore.deps.json
+C:\bunker\Fishing Store\FishingStore\bin\Debug\net10.0\FishingStore.runtimeconfig.json
+C:\bunker\Fishing Store\FishingStore\bin\Debug\net10.0\FishingStore.dll
+C:\bunker\Fishing Store\FishingStore\bin\Debug\net10.0\FishingStore.pdb
+C:\bunker\Fishing Store\FishingStore\obj\Debug\net10.0\FishingStore.dll
+C:\bunker\Fishing Store\FishingStore\obj\Debug\net10.0\refint\FishingStore.dll
+C:\bunker\Fishing Store\FishingStore\obj\Debug\net10.0\FishingStore.pdb
+C:\bunker\Fishing Store\FishingStore\obj\Debug\net10.0\FishingStore.genruntimeconfig.cache
+C:\bunker\Fishing Store\FishingStore\obj\Debug\net10.0\ref\FishingStore.dll
